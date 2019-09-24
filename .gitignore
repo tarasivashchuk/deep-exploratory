@@ -1,5 +1,9 @@
 # Pycharm settings directory
 .idea/
+inspectionProfiles/
+.idea/*.xml
+.idea/*.iml
+inspectionProfiles/*.xml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
