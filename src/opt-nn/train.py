@@ -1,3 +1,5 @@
+#  Copyright (c)  2019. Taras Ivashchuk
+
 from layers import *
 
 if __name__ == '__main__':
