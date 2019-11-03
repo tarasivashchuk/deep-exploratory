@@ -1,4 +1,4 @@
-# taras-neuralnets
+# deep-topts
 Collection of experiments and personal studies in **deep learning**. There are currently three packages that are included 
 within the `src` directory, each with a unique foundational idea behind them.
 
