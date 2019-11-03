@@ -1,4 +1,8 @@
 #  Copyright (c)  2019. Taras Ivashchuk
+"""
+Training script used for testing the functionality of neural network components.
+"""
+# TODO: Include argument parsing to easily set specific testing parameters from the command line.
 
 from layers import *
 
