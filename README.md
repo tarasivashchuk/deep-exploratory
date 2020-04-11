@@ -1,4 +1,6 @@
-# deep-topts
+# ti-deep-exploratory
+> This project is little more than a placeholder right now. Feel free to watch it for updates though!
+
 Collection of experiments and personal studies in **deep learning**. There are currently three packages that are included 
 within the `src` directory, each with a unique foundational idea behind them.
 
@@ -25,20 +27,4 @@ completely unrelated.
     - Only needed for the `opt-experimental` package
 
 
-------------------------------------------------------------------------------------------------------------------------
-#### List of Project Packages
-
-##### 1. opt-experimental
-This package is where I experiment with implementing various ideas I have about neural networks and any 
-supporting algorithms or structures. This can include everything from unique architectures to optimization 
-functions.
-
-##### 2. opt-nn
-Deep learning library built from the ground-up without any deep learning libraries or frameworks. Numpy is 
-used to handle optimized matrix and tensor operations.
-
-##### 3. opt-utils
-Utility modules for dataset related functionality, data cleaning, and other things along those lines. 
-Currently only has code for generating dummy datasets for testing purposes.
-    
-Copyright &copy; 2019 Taras Ivashchuk 
+**If anything here is helpful to you, feel free to use it however you need. Giving me a shoutout is nice but not required.**
