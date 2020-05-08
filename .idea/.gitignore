@@ -1,0 +1,7 @@
+# Ignoring all files and directories
+*.xml
+*.iml
+inspectionProfiles/
+
+# Default ignored files
+/workspace.xml
