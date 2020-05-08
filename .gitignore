@@ -108,3 +108,4 @@ venv.bak/
 /src/opt-experimental/research-papers/
 
 .DS_Store
+/.idea
