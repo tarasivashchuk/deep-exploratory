@@ -9,22 +9,12 @@ regular, but if I decide to stop development I will make sure to update this REA
 
 ##### Usage Permission
 If you use code from the `opt-experimental` package then it'd be awesome if you shoot me an email to let me know about it 
-as I would love to hearand give me credit. I won't sue you or anything if you don't though - just relying on people 
-hopefully being supportive and honest.
+as I would love to hear about it. But if anything here helps you, feel free to use it in the same way as if you had
+wrote it.
 
 ##### Contact Details
 Feel free to contact me at [taras@tarasivashchuk.com](mailto:taras@tarasivashchuk.com) for anything related to this 
-repository or software engineering in general and I'll respond, unless it's just spam, hate mail, or anything 
-completely unrelated.
+repository or software engineering in general and I'll respond, unless it's just spam, hate mail, or stuff like that.
 
-
-##### Prerequisites
-- **Python** (3.7)
-    - Pytorch was installed for this version of Python, and even though I haven't tested it, any 3.5+ version should 
-    work fine
-- **Numpy** (1.16.5)
-- **Pytorch** (1.3.0)
-    - Only needed for the `opt-experimental` package
-
-
+'
 **If anything here is helpful to you, feel free to use it however you need. Giving me a shoutout is nice but not required.**
