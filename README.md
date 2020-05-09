@@ -11,7 +11,3 @@ regular, but if I decide to stop development I will make sure to update this REA
 Feel free to contact me at [taras@tarasivashchuk.com](mailto:taras@tarasivashchuk.com) for anything related to this 
 repository, software engineering in general, or cause you need a friend and I'll respond, unless it's just spam,  
 hate mail, or stuff like that.
-
-
-#### "Dude, I don't care, can I use your code or not?" Section
-**If anything here is helpful to you, feel free to use it however you need. Giving me a shoutout is nice but not required.**
